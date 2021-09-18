@@ -302,3 +302,4 @@ def calc():
     except:
         print('Invalid choice. Please try again.')
         
+calc()
